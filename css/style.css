@@ -5,11 +5,11 @@ body {
   display: block;
   border: 1.5px;
   border-style: solid;
-  border-radius: 12px;
+  border-radius: 15px;
   border-color: rgb(200, 200, 200);
  padding: 70px;
   margin: 100px;
-  width: 900px
+  width: 300px
   background-aling: center;
   
 }
