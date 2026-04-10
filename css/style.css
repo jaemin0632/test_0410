@@ -7,10 +7,10 @@ body {
   border-style: solid;
   border-radius: 12px;
   border-color: rgb(200, 200, 200);
-  padding: 60px;
-  margin: 300px;
-  width: 900px;
-
+ padding: 70px;
+  margin: 100px;
+  width: 900px
+  background-aling: center;
   
 }
 
